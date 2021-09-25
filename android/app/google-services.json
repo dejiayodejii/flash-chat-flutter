@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459182110185",
+    "project_id": "flash-back-44d3e",
+    "storage_bucket": "flash-back-44d3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459182110185:android:2f3508ece547fbca3a4778",
+        "android_client_info": {
+          "package_name": "co.ayodeji.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459182110185-o7ar1e8cr9v7732v09s2ghtdrnaeuh1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCerIg-e1sWtsmwftfohinVqzt_viK9yx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459182110185-o7ar1e8cr9v7732v09s2ghtdrnaeuh1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
